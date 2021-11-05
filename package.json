@@ -20,5 +20,6 @@
   "homepage": "https://github.com/Cienna97/zookeppr#readme",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {}
 }
